@@ -66,10 +66,7 @@ This dataset was inspired by the Mushroom Data Set of J. Schlimmer: url:https://
 ||
 |*Note: All variables are categorical except for cap-diameter, stem-height, and stem-width.* |
 
-
-```python
-## Data import
-```
+### Data import
 
 
 ```python
@@ -134,16 +131,6 @@ identical_rows_different_classes = grouped.filter(lambda x: x[y.name].nunique() 
 # Display the result
 print(identical_rows_different_classes)
 print(identical_rows_different_classes.shape)
-```
-
-
-```python
-
-```
-
-
-```python
-
 ```
 
 ### Data Head
@@ -494,7 +481,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_17_0.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_15_0.png)
     
 
 
@@ -538,7 +525,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_20_0.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_18_0.png)
     
 
 
@@ -687,13 +674,13 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_25_2.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_23_2.png)
     
 
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_25_3.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_23_3.png)
     
 
 
@@ -1064,7 +1051,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_38_0.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_36_0.png)
     
 
 
@@ -1166,7 +1153,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_46_0.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_44_0.png)
     
 
 
@@ -1213,7 +1200,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_48_1.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_46_1.png)
     
 
 
@@ -1230,7 +1217,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_49_0.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_47_0.png)
     
 
 
@@ -1311,7 +1298,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_53_1.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_51_1.png)
     
 
 
@@ -1376,7 +1363,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_59_0.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_57_0.png)
     
 
 
@@ -1443,7 +1430,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_61_0.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_59_0.png)
     
 
 
@@ -1491,7 +1478,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_66_0.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_64_0.png)
     
 
 
@@ -1563,7 +1550,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_70_0.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_68_0.png)
     
 
 
@@ -1618,7 +1605,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_71_0.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_69_0.png)
     
 
 
@@ -1646,7 +1633,7 @@ plt.show()
 
 
     
-![png](Mushroom_Dataset_files/Mushroom_Dataset_72_0.png)
+![png](Mushroom_Dataset_files/Mushroom_Dataset_70_0.png)
     
 
 
